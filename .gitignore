@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+migrations
+log
+test
+userImg
+uploadUser
+db.sqlite3
+*.pyc
